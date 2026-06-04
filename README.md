@@ -4,6 +4,8 @@ CryptoVision es una Single Page Application (SPA) diseñada como una terminal av
 
 ESTE PROYECTO FUE HECHO PARA FINES ACADEMICOS, NO CUENTA CON UN SISTEMA DE PAGO Y SOLO CONTIENE INFORMACIÓN EN TIEMPO REAL RELACIONADO A LOS BLOCKCHAINS.
 
+Demo: https://cryptovisionanahuacproyecto.netlify.app/
+
 ## Caracteristicas
 
 * Enrutamiento virtual sin recarga del DOM utilizando React 19.
